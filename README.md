@@ -1,2 +1,1 @@
-# Brainwave_Matrix_Intern
-ATMInterface
+# Brainwave_Matrix_Interface
